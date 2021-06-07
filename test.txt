@@ -1,0 +1,39 @@
+ Том в устройстве D не имеет метки.
+ Серийный номер тома: D46C-3950
+
+ Содержимое папки D:\pyton\ADVIT
+
+07.05.2021  10:29    <DIR>          .
+07.05.2021  10:29    <DIR>          ..
+07.05.2021  10:28    <DIR>          .idea
+11.09.2017  10:22               272 class1.py
+01.02.2018  22:48               386 class2.py
+20.09.2017  14:47             1 407 hero.py
+28.04.2021  11:53               131 Lesson -7-Loops.py
+27.04.2021  21:35               527 Lesson 5 - Strings.py
+30.04.2021  11:06               496 Lesson-10-if-elif-else.py
+01.05.2021  13:03               441 Lesson-11-Dictionary.py
+01.05.2021  16:18               528 Lesson-12-Dictionary.py
+01.05.2021  20:23               519 Lesson-13-Input.py
+01.05.2021  21:06               664 Lesson-14-Function.py
+01.05.2021  21:28               641 Lesson-15-Function2.py
+02.05.2021  13:11               356 Lesson-16-Module.py
+02.05.2021  19:38               272 Lesson-17-Class1.py
+02.05.2021  20:24               384 Lesson-18-Class2.py
+06.05.2021  22:20               333 Lesson-20-Exceptions.py
+07.05.2021  10:29                89 Lesson-22-Arguments.py
+18.02.2018  17:21             1 106 Lesson-23-RegExpression1.py
+18.02.2018  19:50                 0 lesson-24-RegExpression2.py
+26.04.2021  11:58               297 Lesson-4-Variables.py
+28.04.2021  11:37                 0 Lesson-6-Numbers.py
+29.04.2021  16:22               122 Lesson-8-Lists1.py
+29.04.2021  19:23               651 Lesson-9-Lists.py
+17.05.2020  14:51             1 026 lesson21_JSON.py
+02.05.2021  22:00               304 Lesspon-19-Files.py
+02.05.2021  13:07               134 mymodule.py
+07.05.2021  10:29                 0 test.txt
+06.05.2021  22:55               155 user_settings.txt
+02.05.2021  21:22               302 use_names.txt
+02.05.2021  19:58    <DIR>          __pycache__
+              28 файлов         11 543 байт
+               4 папок  1 470 429 351 936 байт свободно
